@@ -30,21 +30,3 @@
  - implement an alternative key distribution protocol based on quantum
    mechanics, and describe conditions under which it is robust to quantum attack
 
-## Module 4: simulating physical systems
- - describe physical systems using Hamiltonians
- - Trotterize a Hamiltonian and state key bounds on the approximation accuracy
-   of the simulations
- - construct quantum circuits to simulate time evolution of quantum systems
- - use QPE to determine the ground state energy of a quantum system
- - implement a variational quantum eigensolver to determine the ground state
-   energy of a quantum system, and discuss its limitations
-   
-## Module 5: characterizing noise in quantum systems
- - represent quantum states and measurements in the density matrix formalism
- - express quantum operations as quantum channels, and state their key
-   mathematical properties 
- - discuss the strengths and limitations of key metrics used to quantify the
-   performance of today's quantum computers
- - perform quantum state tomography using PennyLane
- - describe the randomized benchmarking protocol, and apply it to estimate the
-   average gate fidelity for a simulated noisy system
