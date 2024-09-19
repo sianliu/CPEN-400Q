@@ -18,6 +18,17 @@ wish.
  - 14: QFT and quantum phase estimation
  - 15: Quantum phase estimation and order finding
  - 16: Order finding and Shor’s algorithm
+
+ ## QuICScript Builder Activities 
+ - Lecture 02 (page 34) Pauli Rotation Circuit
+ - Lecture 04 (page 12) Basis Rotations
+ - Lecture 05 (page 23) Superdense Coding
+ - Lecture 06 (page 13) Quantum Teleportation
+ - Lecture 09 (page 27) Deutsch-Jozsa Algorithm
+ - Lecture 10 (page 36) Full Grover Circuit
+ - Lecture 13 (page 31) Quantum Fourier Transform
+ - Lecture 14 (page 38) Quantum Phase Estimation
+ - Lecture 15 (page 20) Shor's Algorithm
  
 ## Resources
 
