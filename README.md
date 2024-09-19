@@ -17,6 +17,7 @@ wish.
  - 13: The quantum Fourier transform
  - 14: QFT and quantum phase estimation
  - 15: Quantum phase estimation and order finding
+ - 16: Order finding and Shor’s algorithm
  
 ## Resources
 
